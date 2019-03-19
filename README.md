@@ -1,3 +1,10 @@
+# Spring Boot 基础教程
+
+号外：最近整理了以前编写的系列内容为PDF，**关注公众号：“程序猿DD”**，领取免费学习资料。<br>
+本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。<br>
+如您觉得该项目不错，欢迎点击右上方的**Star**按钮，给予支持！！！
+
+<br>
 # Spring Boot基础教程（1.x版本）
 
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
@@ -20,6 +27,10 @@
       <tbody>
         <tr>
           <td align="center" valign="middle">
+            <a href="https://e.coding.net/?utm_source=zhaiyongchao&utm_medium=banner&utm_campaign=march2019" target="_blank">
+              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
+            </a>
+          </td>
             <a href="https://coding.net/?utm_source=zhaiyongchao&utm_medium=banner&utm_campaign=march2019" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
             </a>
@@ -33,6 +44,27 @@
       </tbody>
 </table>
 
+> 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
+
+<br>
+
+**优惠云服务推荐**
+
+- [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
+- [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
+
+## 目录（基于1.3.x-1.5.x）
+
+#### 快速入门
+
+- chapter1：[基本项目构建（可作为工程脚手架），引入web模块，完成一个简单的RESTful API](http://blog.didispace.com/spring-boot-learning-1/)
+- [使用Intellij中的Spring Initializr来快速构建Spring Boot/Cloud工程](http://blog.didispace.com/spring-initializr-in-intellij/)
+
+#### 工程配置
+
+- chapter2-1-1：[配置文件详解：自定义属性、随机数、多环境配置等](http://blog.didispace.com/springbootproperties/)
+- chapter2-1-2：[2.0 新特性（一）：配置绑定全解析](http://blog.didispace.com/Spring-Boot-2-0-feature-1-relaxed-binding-2/)
+- chapter2-2-1：[2.0 新特性（二）：新增事件ApplicationStartedEvent](http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/)
 > 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
 
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
@@ -138,6 +170,22 @@
 - chapter9-2-2：[Spring Boot与Dubbo中管理服务依赖](https://gitee.com/didispace/SpringBoot-Learning/tree/master/Chapter9-2-2)
 
 ## 推荐内容
+
+- 我的博客：http://blog.didispace.com
+- 知识星球：https://t.xiaomiquan.com/zfEiY3v
+- GitHub：https://github.com/dyc87112/SpringBoot-Learning
+- Gitee：https://gitee.com/didispace/SpringBoot-Learning
+- Spring For All社区：http://www.spring4all.com/
+- Spring Boot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
+- Spring Cloud基础教程：http://blog.didispace.com/Spring-Cloud%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/
+
+## 我的公众号
+
+![输入图片说明](http://git.oschina.net/uploads/images/2017/0105/082137_85109d07_437188.jpeg "在这里输入图片标题")
+
+## 我出版的书
+
+![输入图片说明](https://git.oschina.net/uploads/images/2017/0416/233656_dd3bce94_437188.png "在这里输入图片标题")
 
 - [我的博客](http://blog.didispace.com)：分享平时学习和实践过的技术内容
 - [知识星球](https://t.xiaomiquan.com/zfEiY3v)：聊聊技术人的斜杠生活
