@@ -5,11 +5,15 @@
 
     <groupId>com.didispace</groupId>
     <artifactId>SpringCloud-Learning</artifactId>
-    <version>1.0-SNAPSHOT</version>s
+    <version>1.0-SNAPSHOT</version>
 
     <modules>
         <module>Chapter3-1</module>
+<<<<<<< HEAD
         <!-- 啊啊啊啊   asdfasfdas -->
+=======
+        <!-- 啊啊啊啊 -->
+>>>>>>> branch 'master' of https://github.com/lihuanwei/SpringBoot-Learning.git
         <!-- 啦啦啦啦啦 -->
         <!-- wwwwwwwbbbbbbvvvvvvvvvv -->
         <!--aaaaa Test aaaaaa dfasdfsa-->
