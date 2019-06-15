@@ -1,4 +1,6 @@
 #demo
+#Git 测试
+>>>>>>> 74b32b0b057483fd2c0f723ea7ecb77369fb38fb
 # Spring Boot基础教程
 
 本项目内容为[《Spring Boot基础教程》](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)的程序样例。
