@@ -20,7 +20,7 @@
       <tbody>
         <tr>
           <td align="center" valign="middle">
-            <a href="https://e.coding.net/?utm_source=zhaiyongchao&utm_medium=banner&utm_campaign=march2019" target="_blank">
+            <a href="https://coding.net/?utm_source=zhaiyongchao&utm_medium=banner&utm_campaign=march2019" target="_blank">
               <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
             </a>
           </td>
@@ -33,7 +33,11 @@
       </tbody>
 </table>
 
+<<<<<<< HEAD
 > 如果您也想赞助支持我的话，可以通过邮件联系：`didi@didispace.com`
+=======
+> 如果您也想赞助支持并出现在上表中的话，可以通过邮件联系我：`didi@didispace.com`
+>>>>>>> 6d10147e49673b91a4845863771e46c86837b97f
 
 - [阿里云：ECS云服务器2折起](https://promotion.aliyun.com/ntms/act/ambassador/sharetouser.html?userCode=wxfqkr0o&utm_source=wxfqkr0o)
 - [腾讯云：轻松应对建站成本问题](https://cloud.tencent.com/redirect.php?redirect=1027&cps_key=f6a8af1297bfac40b9d10ffa1270029a&from=console)
